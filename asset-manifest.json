@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/wordtools/static/css/main.075fd5e4.css",
+    "main.js": "/wordtools/static/js/main.9f867186.js",
+    "static/js/453.237759f5.chunk.js": "/wordtools/static/js/453.237759f5.chunk.js",
+    "index.html": "/wordtools/index.html",
+    "main.075fd5e4.css.map": "/wordtools/static/css/main.075fd5e4.css.map",
+    "main.9f867186.js.map": "/wordtools/static/js/main.9f867186.js.map",
+    "453.237759f5.chunk.js.map": "/wordtools/static/js/453.237759f5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.075fd5e4.css",
+    "static/js/main.9f867186.js"
+  ]
+}
